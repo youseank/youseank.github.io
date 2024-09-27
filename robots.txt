@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://youseank.github.io/sitemap.youseank.gz
+Sitemap: https://youseank.github.io/app/sitemap.youseank.gz
+Sitemap: https://youseank.github.io/assets/sitemap.youseank.gz
+Sitemap: https://youseank.github.io/css/sitemap.youseank.gz
+Sitemap: https://youseank.github.io/data/sitemap.youseank.gz
+Sitemap: https://youseank.github.io/includes/sitemap.youseank.gz
+Sitemap: https://youseank.github.io/item/sitemap.youseank.gz
+Sitemap: https://youseank.github.io/src/sitemap.youseank.gz
